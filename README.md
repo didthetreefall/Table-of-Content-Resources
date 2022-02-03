@@ -5,6 +5,7 @@
 - [目錄連結](https://docs.google.com/document/d/1wGiUWIP7Osg_ltAwvaQmcE5d6UFkK5MESmHZKVHb50g/edit?usp=drivesdk)
 ## [資源](https://drive.google.com/drive/folders/1wI6iueDSGI-d66Vmf6gSt9krDKX-Y8Zv)
 ### [AI](https://drive.google.com/drive/folders/1shbi8Kmchdwr-wBqZXPfakne7bz-w-43)
+- [DeepMind AI resources.pdf](https://drive.google.com/file/d/1qgif3znuJfG6__rxix9yPSCaLR2O4PnI/view?usp=drivesdk)
 ### [Arduino](https://drive.google.com/drive/folders/1z0hLL9EYD76CsuMpbJjn_wnIfQU5l0aF)
 #### [ESP32](https://drive.google.com/drive/folders/1Rxg-jH6eMzw0dPlJJKEmOHeGG2BbHibr)
 ##### [藍芽鍵盤模擬](https://drive.google.com/drive/folders/1Vt6nLs-lmyCZIgBBduW8V_eN77vYylZi)
