@@ -7,6 +7,7 @@
 ### [Software Engineering](https://drive.google.com/drive/folders/1jZUYMr0eLRw-NWBJFByH2V5J58BjkV1z)
 #### [方法論](https://drive.google.com/drive/folders/1Nq6ZY2kKQ2TuFJ9f8pqeSWWylKv5qZku)
 - [NoSilverBullet.pdf](https://drive.google.com/file/d/15Mk9pXnsSmZEUeWi150uIv2qhxgABvYx/view?usp=drivesdk)
+##### [No Silver Bullet—Essence and Accidents of Software Engineering](https://drive.google.com/drive/folders/1JkP6BgJ9iIpkefXtMRSRVwKmHEfe5ABa)
 ### [AI](https://drive.google.com/drive/folders/1shbi8Kmchdwr-wBqZXPfakne7bz-w-43)
 - [DeepMind AI resources.pdf](https://drive.google.com/file/d/1qgif3znuJfG6__rxix9yPSCaLR2O4PnI/view?usp=drivesdk)
 ### [Arduino](https://drive.google.com/drive/folders/1z0hLL9EYD76CsuMpbJjn_wnIfQU5l0aF)
