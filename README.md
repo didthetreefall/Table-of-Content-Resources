@@ -5,6 +5,7 @@
 - [目錄連結](https://docs.google.com/document/d/1wGiUWIP7Osg_ltAwvaQmcE5d6UFkK5MESmHZKVHb50g/edit?usp=drivesdk)
 ## [資源](https://drive.google.com/drive/folders/1wI6iueDSGI-d66Vmf6gSt9krDKX-Y8Zv)
 ### [Software Engineering](https://drive.google.com/drive/folders/1jZUYMr0eLRw-NWBJFByH2V5J58BjkV1z)
+#### [方法論](https://drive.google.com/drive/folders/1Nq6ZY2kKQ2TuFJ9f8pqeSWWylKv5qZku)
 - [NoSilverBullet.pdf](https://drive.google.com/file/d/15Mk9pXnsSmZEUeWi150uIv2qhxgABvYx/view?usp=drivesdk)
 ### [AI](https://drive.google.com/drive/folders/1shbi8Kmchdwr-wBqZXPfakne7bz-w-43)
 - [DeepMind AI resources.pdf](https://drive.google.com/file/d/1qgif3znuJfG6__rxix9yPSCaLR2O4PnI/view?usp=drivesdk)
