@@ -7,7 +7,7 @@
 ### [Software Engineering](https://drive.google.com/drive/folders/1jZUYMr0eLRw-NWBJFByH2V5J58BjkV1z)
 #### [方法論](https://drive.google.com/drive/folders/1Nq6ZY2kKQ2TuFJ9f8pqeSWWylKv5qZku)
 ##### [No Silver Bullet—Essence and Accidents of Software Engineering](https://drive.google.com/drive/folders/1JkP6BgJ9iIpkefXtMRSRVwKmHEfe5ABa)
-- [No Silver Bullet -- 分類原因與想法 by Secminhr](https://docs.google.com/document/d/1Deq4nsH885q9RVpDpdOlPvazqbMdbrPmy_EcJuG8oIw/edit?usp=drivesdk)
+- [No Silver Bullet -- 分類原因與想法](https://docs.google.com/document/d/1Deq4nsH885q9RVpDpdOlPvazqbMdbrPmy_EcJuG8oIw/edit?usp=drivesdk)
 - [NoSilverBullet.pdf](https://drive.google.com/file/d/15Mk9pXnsSmZEUeWi150uIv2qhxgABvYx/view?usp=drivesdk)
 ### [AI](https://drive.google.com/drive/folders/1shbi8Kmchdwr-wBqZXPfakne7bz-w-43)
 - [DeepMind AI resources.pdf](https://drive.google.com/file/d/1qgif3znuJfG6__rxix9yPSCaLR2O4PnI/view?usp=drivesdk)
