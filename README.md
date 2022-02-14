@@ -4,6 +4,7 @@
 - [TableOfContentScript](https://script.google.com/d/1cR28iG960O3N63pspy4eJa2aZkTo-xfDf5CYsBALKsF7eGEVYQt9wT-0/edit?usp=drivesdk)
 - [目錄連結](https://docs.google.com/document/d/1wGiUWIP7Osg_ltAwvaQmcE5d6UFkK5MESmHZKVHb50g/edit?usp=drivesdk)
 ## [資源](https://drive.google.com/drive/folders/1wI6iueDSGI-d66Vmf6gSt9krDKX-Y8Zv)
+### [電子書](https://drive.google.com/drive/folders/1LNY-Jrq4JhnltxJVsHb2vRdDfoGhuWvF)
 ### [Software Engineering](https://drive.google.com/drive/folders/1jZUYMr0eLRw-NWBJFByH2V5J58BjkV1z)
 #### [方法論](https://drive.google.com/drive/folders/1Nq6ZY2kKQ2TuFJ9f8pqeSWWylKv5qZku)
 ##### [No Silver Bullet—Essence and Accidents of Software Engineering](https://drive.google.com/drive/folders/1JkP6BgJ9iIpkefXtMRSRVwKmHEfe5ABa)
