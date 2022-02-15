@@ -7,6 +7,7 @@
 ### [上課簡報](https://drive.google.com/drive/folders/1J6np2YY7I82R5zl95XwVfEebGZ17HGGu)
 - [Chapter_8_v8.0.pptx](https://docs.google.com/presentation/d/1LsK5xXG6LVrg_o9Xm8KoxAFJUnIDq7Bf/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
 - [Chapter_7_v8.0.pptx](https://docs.google.com/presentation/d/1W-3meXGkfFjPlPSATO5f2HCSt7PgBx4o/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
+- [Chapter_6_v8.0.pptx](https://docs.google.com/presentation/d/1Mkn8YsywzIO65jPGASvnYJdNjXIvOBUo/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
 - [大二下電腦網路概論上課簡報](https://docs.google.com/document/d/1ZqK1F4BcWaR634p1HTI04d5Mn5k4teP6LaHmmr-i2VE/edit?usp=drivesdk)
 ### [機械手臂](https://drive.google.com/drive/folders/1BjLNG4KsdmvAM-1kLLWrBT2jKV3l_HL0)
 - [機械系專題實作](https://docs.google.com/document/d/15PkVL9j-PJteGAlbiKFLzn-Sxh5-9DcLLPIAnkvku20/edit?usp=drivesdk)
