@@ -11,6 +11,8 @@
 - [Chapter_5_v8.0.pptx](https://docs.google.com/presentation/d/16nKNJSEoa_t90MVO-h2UKCF2LdF1Y4XX/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
 - [Chapter_4_v8.0.pptx](https://docs.google.com/presentation/d/1WOceaJDUNO608E8Lw4oDJ9-wRdRMe1QD/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
 - [Chapter_3_v8.0.pptx](https://docs.google.com/presentation/d/123atFSm1j_V6zHnh-YYX7c0OCw5uepyr/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
+- [Chapter_2_v8.1.pptx](https://docs.google.com/presentation/d/1rohp0i7FcAbYUWX6I4iqemwylaBBsWUS/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
+- [Chapter_1_v8.1.pptx](https://docs.google.com/presentation/d/1TookOjlQ4uVXHUaXVfLKT4dcMucc3hp6/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
 - [大二下電腦網路概論上課簡報](https://docs.google.com/document/d/1ZqK1F4BcWaR634p1HTI04d5Mn5k4teP6LaHmmr-i2VE/edit?usp=drivesdk)
 ### [機械手臂](https://drive.google.com/drive/folders/1BjLNG4KsdmvAM-1kLLWrBT2jKV3l_HL0)
 - [機械系專題實作](https://docs.google.com/document/d/15PkVL9j-PJteGAlbiKFLzn-Sxh5-9DcLLPIAnkvku20/edit?usp=drivesdk)
