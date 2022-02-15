@@ -3,6 +3,7 @@
 # [我的雲端硬碟](https://drive.google.com/drive/folders/0AD8qKSrYx_alUk9PVA)
 - [TableOfContentScript](https://script.google.com/d/1cR28iG960O3N63pspy4eJa2aZkTo-xfDf5CYsBALKsF7eGEVYQt9wT-0/edit?usp=drivesdk)
 - [目錄連結](https://docs.google.com/document/d/1wGiUWIP7Osg_ltAwvaQmcE5d6UFkK5MESmHZKVHb50g/edit?usp=drivesdk)
+## [上課影片](https://drive.google.com/drive/folders/17WuOhgMR2RTPYTQAfjjd9AcZSqUSgrW8)
 ## [資源](https://drive.google.com/drive/folders/1wI6iueDSGI-d66Vmf6gSt9krDKX-Y8Zv)
 ### [上課簡報](https://drive.google.com/drive/folders/1J6np2YY7I82R5zl95XwVfEebGZ17HGGu)
 - [Chapter_8_v8.0.pptx](https://docs.google.com/presentation/d/1LsK5xXG6LVrg_o9Xm8KoxAFJUnIDq7Bf/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
