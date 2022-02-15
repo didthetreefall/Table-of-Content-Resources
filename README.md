@@ -7,6 +7,7 @@
 ### [機械手臂](https://drive.google.com/drive/folders/1BjLNG4KsdmvAM-1kLLWrBT2jKV3l_HL0)
 - [機械系專題實作](https://docs.google.com/document/d/15PkVL9j-PJteGAlbiKFLzn-Sxh5-9DcLLPIAnkvku20/edit?usp=drivesdk)
 ### [電子書](https://drive.google.com/drive/folders/1LNY-Jrq4JhnltxJVsHb2vRdDfoGhuWvF)
+- [Introduction to Algorithms.pdf](https://drive.google.com/file/d/1lk2apEZI1lDq-6jOkiR-hVFSZf4gTzT5/view?usp=drivesdk)
 - [ComputerOrganizationAndDesign5thEdition2014.pdf](https://drive.google.com/file/d/1LffPDYXDoHKKNRtBnBeiu-c6HfmMeBQc/view?usp=drivesdk)
 ### [Software Engineering](https://drive.google.com/drive/folders/1jZUYMr0eLRw-NWBJFByH2V5J58BjkV1z)
 #### [方法論](https://drive.google.com/drive/folders/1Nq6ZY2kKQ2TuFJ9f8pqeSWWylKv5qZku)
