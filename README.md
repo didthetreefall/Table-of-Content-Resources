@@ -11,6 +11,7 @@
 ### [上課簡報](https://drive.google.com/drive/folders/1J6np2YY7I82R5zl95XwVfEebGZ17HGGu)
 - [Chapter_1_v8.1.pdf](https://drive.google.com/file/d/1EVeW8M0Lg_s7W08qv81O7DUDwdZ8kDsn/view?usp=drivesdk)
 - [大二下電腦網路概論上課簡報](https://docs.google.com/document/d/1ZqK1F4BcWaR634p1HTI04d5Mn5k4teP6LaHmmr-i2VE/edit?usp=drivesdk)
+#### [電腦網路概論](https://drive.google.com/drive/folders/1-73QTkDBAuY4ybXWbStKItjQGh5mRSo9)
 #### [PPT](https://drive.google.com/drive/folders/1-1T5I8NOcXLqoawgHPLbuyHFgIHBvsKs)
 - [Chapter_8_v8.0.pptx](https://docs.google.com/presentation/d/1LsK5xXG6LVrg_o9Xm8KoxAFJUnIDq7Bf/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
 - [Chapter_7_v8.0.pptx](https://docs.google.com/presentation/d/1W-3meXGkfFjPlPSATO5f2HCSt7PgBx4o/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
