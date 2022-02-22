@@ -21,6 +21,7 @@
 - [Chapter_2_v8.1.pptx](https://docs.google.com/presentation/d/1rohp0i7FcAbYUWX6I4iqemwylaBBsWUS/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
 - [Chapter_1_v8.1.pptx](https://docs.google.com/presentation/d/1TookOjlQ4uVXHUaXVfLKT4dcMucc3hp6/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
 ##### [PDF](https://drive.google.com/drive/folders/1nPKTQos5oWNhE-fErM0N4T4UmkvA5bzX)
+- [Chapter_2_v8.1.pdf](https://drive.google.com/file/d/12ZfOcfPkNFaMTADPUX72WaZBQHsebWFT/view?usp=drivesdk)
 - [Chapter_1_v8.1.pdf](https://drive.google.com/file/d/1EVeW8M0Lg_s7W08qv81O7DUDwdZ8kDsn/view?usp=drivesdk)
 ### [機械手臂](https://drive.google.com/drive/folders/1BjLNG4KsdmvAM-1kLLWrBT2jKV3l_HL0)
 - [機械系專題實作](https://docs.google.com/document/d/15PkVL9j-PJteGAlbiKFLzn-Sxh5-9DcLLPIAnkvku20/edit?usp=drivesdk)
