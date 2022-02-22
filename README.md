@@ -9,6 +9,7 @@
 - [w1.zip](https://drive.google.com/file/d/13GfiTg9VkC8HYJX6tfZIvWgPonjZ5Gqc/view?usp=drivesdk)
 ## [資源](https://drive.google.com/drive/folders/1wI6iueDSGI-d66Vmf6gSt9krDKX-Y8Zv)
 ### [上課簡報](https://drive.google.com/drive/folders/1J6np2YY7I82R5zl95XwVfEebGZ17HGGu)
+- [Chapter_1_v8.1.pdf](https://drive.google.com/file/d/1EVeW8M0Lg_s7W08qv81O7DUDwdZ8kDsn/view?usp=drivesdk)
 - [Chapter_8_v8.0.pptx](https://docs.google.com/presentation/d/1LsK5xXG6LVrg_o9Xm8KoxAFJUnIDq7Bf/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
 - [Chapter_7_v8.0.pptx](https://docs.google.com/presentation/d/1W-3meXGkfFjPlPSATO5f2HCSt7PgBx4o/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
 - [Chapter_6_v8.0.pptx](https://docs.google.com/presentation/d/1Mkn8YsywzIO65jPGASvnYJdNjXIvOBUo/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
