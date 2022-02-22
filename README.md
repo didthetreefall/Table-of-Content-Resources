@@ -6,7 +6,6 @@
 ## [上課影片](https://drive.google.com/drive/folders/17WuOhgMR2RTPYTQAfjjd9AcZSqUSgrW8)
 ### [大二下電腦網路概論](https://drive.google.com/drive/folders/17f1PUU8rVnj9rwhyRRtsyVXb8lv_CVlS)
 - [w1.zip](https://drive.google.com/file/d/13GfiTg9VkC8HYJX6tfZIvWgPonjZ5Gqc/view?usp=drivesdk)
-#### [大二下電腦網路概論w1](https://drive.google.com/drive/folders/1ZItzzTCDn_fRlyFKzIUx_yts4eatsr5b)
 ## [資源](https://drive.google.com/drive/folders/1wI6iueDSGI-d66Vmf6gSt9krDKX-Y8Zv)
 ### [上課簡報](https://drive.google.com/drive/folders/1J6np2YY7I82R5zl95XwVfEebGZ17HGGu)
 #### [電腦網路概論](https://drive.google.com/drive/folders/1-73QTkDBAuY4ybXWbStKItjQGh5mRSo9)
