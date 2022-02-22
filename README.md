@@ -19,6 +19,7 @@
 - [Chapter_2_v8.1.pptx](https://docs.google.com/presentation/d/1rohp0i7FcAbYUWX6I4iqemwylaBBsWUS/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
 - [Chapter_1_v8.1.pptx](https://docs.google.com/presentation/d/1TookOjlQ4uVXHUaXVfLKT4dcMucc3hp6/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
 - [大二下電腦網路概論上課簡報](https://docs.google.com/document/d/1ZqK1F4BcWaR634p1HTI04d5Mn5k4teP6LaHmmr-i2VE/edit?usp=drivesdk)
+#### [PDF](https://drive.google.com/drive/folders/1nPKTQos5oWNhE-fErM0N4T4UmkvA5bzX)
 ### [機械手臂](https://drive.google.com/drive/folders/1BjLNG4KsdmvAM-1kLLWrBT2jKV3l_HL0)
 - [機械系專題實作](https://docs.google.com/document/d/15PkVL9j-PJteGAlbiKFLzn-Sxh5-9DcLLPIAnkvku20/edit?usp=drivesdk)
 ### [電子書](https://drive.google.com/drive/folders/1LNY-Jrq4JhnltxJVsHb2vRdDfoGhuWvF)
