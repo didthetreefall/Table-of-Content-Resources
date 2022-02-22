@@ -5,6 +5,7 @@
 - [目錄連結](https://docs.google.com/document/d/1wGiUWIP7Osg_ltAwvaQmcE5d6UFkK5MESmHZKVHb50g/edit?usp=drivesdk)
 ## [上課影片](https://drive.google.com/drive/folders/17WuOhgMR2RTPYTQAfjjd9AcZSqUSgrW8)
 ### [大二下電腦網路概論](https://drive.google.com/drive/folders/17f1PUU8rVnj9rwhyRRtsyVXb8lv_CVlS)
+- [2022-02-22 15-23-09.mp4](https://drive.google.com/file/d/1POKR8zKRz7CQ-r7za4QlsK-whHAKxBmL/view?usp=drivesdk)
 #### [大二下電腦網路概論w1](https://drive.google.com/drive/folders/1ZItzzTCDn_fRlyFKzIUx_yts4eatsr5b)
 - [w1.zip](https://drive.google.com/file/d/13GfiTg9VkC8HYJX6tfZIvWgPonjZ5Gqc/view?usp=drivesdk)
 ## [資源](https://drive.google.com/drive/folders/1wI6iueDSGI-d66Vmf6gSt9krDKX-Y8Zv)
