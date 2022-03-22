@@ -31,6 +31,7 @@
 - [Chapter_2_v8.1.pptx](https://docs.google.com/presentation/d/1rohp0i7FcAbYUWX6I4iqemwylaBBsWUS/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
 - [Chapter_1_v8.1.pptx](https://docs.google.com/presentation/d/1TookOjlQ4uVXHUaXVfLKT4dcMucc3hp6/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
 ##### [PDF](https://drive.google.com/drive/folders/1nPKTQos5oWNhE-fErM0N4T4UmkvA5bzX)
+- [Chapter_4_v8.0-1.pdf](https://drive.google.com/file/d/1aB1eEFucTiK5yqzyAEfeddX1XIbO3ekv/view?usp=drivesdk)
 - [Chapter_3_v8.0.pdf](https://drive.google.com/file/d/1mnTdL_1HdE5JVVUGaDEc6CphiSfEDNMv/view?usp=drivesdk)
 - [Chapter_2_v8.1.pdf](https://drive.google.com/file/d/12ZfOcfPkNFaMTADPUX72WaZBQHsebWFT/view?usp=drivesdk)
 - [Chapter_1_v8.1.pdf](https://drive.google.com/file/d/1EVeW8M0Lg_s7W08qv81O7DUDwdZ8kDsn/view?usp=drivesdk)
