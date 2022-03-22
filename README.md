@@ -15,6 +15,8 @@
 - [2015 洪毅 資料結構 .pdf](https://drive.google.com/file/d/1BF3cZ5caKb4k2BF4yunc0s3G6N3btbbM/view?usp=drivesdk)
 - [2015 洪毅 作業系統.pdf](https://drive.google.com/file/d/1bnKvCu3HiVJs25AZM3hUkPdByiLqYZLb/view?usp=drivesdk)
 - [2015 林立宇 線性代數.pdf](https://drive.google.com/file/d/1L0f_qzFaXJ6dNbc2US_KmmFMnTxf8ud3/view?usp=drivesdk)
+- [2016 張凡 計算機組織 .pdf](https://drive.google.com/file/d/1yVufA_OBKvKFOijl1gkaTRU2TYwMjw3k/view?usp=drivesdk)
+- [2016 林緯 離散數學.pdf](https://drive.google.com/file/d/1sIhqMQU67hP6YL8xPaWVw9LOnZqfnNsJ/view?usp=drivesdk)
 - [2016 林立宇 演算法.pdf](https://drive.google.com/file/d/1s4Jt_XmpogeHTkkywEPyRT0suvTCbvzs/view?usp=drivesdk)
 ### [上課簡報](https://drive.google.com/drive/folders/1J6np2YY7I82R5zl95XwVfEebGZ17HGGu)
 #### [電腦網路概論](https://drive.google.com/drive/folders/1-73QTkDBAuY4ybXWbStKItjQGh5mRSo9)
