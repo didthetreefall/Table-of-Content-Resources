@@ -11,6 +11,7 @@
 - [w1.zip](https://drive.google.com/file/d/13GfiTg9VkC8HYJX6tfZIvWgPonjZ5Gqc/view?usp=drivesdk)
 ## [資源](https://drive.google.com/drive/folders/1wI6iueDSGI-d66Vmf6gSt9krDKX-Y8Zv)
 ### [各科作業](https://drive.google.com/drive/folders/1CqYKhhzK--jreoVZEgdXCJI8Jhv5exij)
+#### [離散](https://drive.google.com/drive/folders/1S39U2PfEgP5RIFseF867YgpcmxMOEadk)
 ### [研究所考科](https://drive.google.com/drive/folders/1rK49FYgY4JaVMhOzbBFRbXKZ4PNCHSk4)
 #### [台大學長TDLB(應該是大碩筆記)](https://drive.google.com/drive/folders/1bsqU4ktb5rfU_ocY7xcXmWETaLLhmyGb)
 - [2015 洪毅 資料結構 .pdf](https://drive.google.com/file/d/1BF3cZ5caKb4k2BF4yunc0s3G6N3btbbM/view?usp=drivesdk)
