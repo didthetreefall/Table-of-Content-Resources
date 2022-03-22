@@ -11,7 +11,7 @@
 - [w1.zip](https://drive.google.com/file/d/13GfiTg9VkC8HYJX6tfZIvWgPonjZ5Gqc/view?usp=drivesdk)
 ## [資源](https://drive.google.com/drive/folders/1wI6iueDSGI-d66Vmf6gSt9krDKX-Y8Zv)
 ### [手作](https://drive.google.com/drive/folders/1K5IU63vSH_KWCGd5h4fcdA1COqbafQM7)
-#### [無人（空拍）機](https://drive.google.com/drive/folders/1KANnKgZpv6ILu9tYnqN-YsOXP9hK2DDQ)
+#### [Drone(with camera)](https://drive.google.com/drive/folders/1KANnKgZpv6ILu9tYnqN-YsOXP9hK2DDQ)
 ### [各科作業](https://drive.google.com/drive/folders/1CqYKhhzK--jreoVZEgdXCJI8Jhv5exij)
 #### [離散](https://drive.google.com/drive/folders/1S39U2PfEgP5RIFseF867YgpcmxMOEadk)
 - [HW1.pdf](https://drive.google.com/file/d/1HbyQVKNfmbbSK0WSy--TU-GS4G_yS5Io/view?usp=drivesdk)
