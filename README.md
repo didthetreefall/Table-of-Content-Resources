@@ -12,6 +12,7 @@
 ## [資源](https://drive.google.com/drive/folders/1wI6iueDSGI-d66Vmf6gSt9krDKX-Y8Zv)
 ### [研究所考科](https://drive.google.com/drive/folders/1rK49FYgY4JaVMhOzbBFRbXKZ4PNCHSk4)
 #### [台大學長TDLB(應該是大碩筆記)](https://drive.google.com/drive/folders/1bsqU4ktb5rfU_ocY7xcXmWETaLLhmyGb)
+- [2015 洪毅 資料結構 .pdf](https://drive.google.com/file/d/1BF3cZ5caKb4k2BF4yunc0s3G6N3btbbM/view?usp=drivesdk)
 - [2015 林立宇 線性代數.pdf](https://drive.google.com/file/d/1L0f_qzFaXJ6dNbc2US_KmmFMnTxf8ud3/view?usp=drivesdk)
 ### [上課簡報](https://drive.google.com/drive/folders/1J6np2YY7I82R5zl95XwVfEebGZ17HGGu)
 #### [電腦網路概論](https://drive.google.com/drive/folders/1-73QTkDBAuY4ybXWbStKItjQGh5mRSo9)
