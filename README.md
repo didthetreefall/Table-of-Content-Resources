@@ -44,6 +44,7 @@
 ### [機械手臂](https://drive.google.com/drive/folders/1BjLNG4KsdmvAM-1kLLWrBT2jKV3l_HL0)
 - [機械系專題實作](https://docs.google.com/document/d/15PkVL9j-PJteGAlbiKFLzn-Sxh5-9DcLLPIAnkvku20/edit?usp=drivesdk)
 ### [電子書](https://drive.google.com/drive/folders/1LNY-Jrq4JhnltxJVsHb2vRdDfoGhuWvF)
+- [ru xm4m3wj/3ru4h0 dl3ru,3286](https://docs.google.com/document/d/15ko5O3crmTQG7AgA3L22r38aUFnXA7HIbtoABZnz79w/edit?usp=drivesdk)
 - [[Head first series] Brett McLaughlin_ Gary Pollice_ David West - Head first object-oriented analysis and design (2007, O'Reilly ) - libgen.lc.pdf](https://drive.google.com/file/d/1O-fhosDbkLakuw08_os6mc8fcspFbfQT/view?usp=drivesdk)
 - [Ronald-E.-Walpole-Raymond-H.-Myers-Sharon-L.-Myers-Keying-E.-Ye-Probability-Statistics-for-Engineers-Scientists-2016-Pearson-libgen.lc.pdf](https://drive.google.com/file/d/1WF4BqgUGSEz4DT9IqGf1jY4zf4Wn70L4/view?usp=drivesdk)
 - [Ralph P. Grimaldi - Discrete and combinatorial mathematics_ an applied introduction (2003, Addison Wesley) - libgen.lc.djvu](https://drive.google.com/file/d/1HQUnw8AHMAChKrAjxbof6CFV1c13qG_e/view?usp=drivesdk)
