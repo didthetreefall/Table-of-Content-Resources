@@ -4,6 +4,7 @@
 - [TableOfContentScript](https://script.google.com/d/1cR28iG960O3N63pspy4eJa2aZkTo-xfDf5CYsBALKsF7eGEVYQt9wT-0/edit?usp=drivesdk)
 - [目錄連結](https://docs.google.com/document/d/1wGiUWIP7Osg_ltAwvaQmcE5d6UFkK5MESmHZKVHb50g/edit?usp=drivesdk)
 ## [上課影片](https://drive.google.com/drive/folders/17WuOhgMR2RTPYTQAfjjd9AcZSqUSgrW8)
+### [大二下機率與統計](https://drive.google.com/drive/folders/1IRFTSS-a9xbLmMQjvREPyLKwHa39nRuA)
 ### [大二下電腦網路概論](https://drive.google.com/drive/folders/17f1PUU8rVnj9rwhyRRtsyVXb8lv_CVlS)
 - [CO_w3.zip](https://drive.google.com/file/d/18Vk72dzVV_sPvmFrpe3g36GnbmbNz29E/view?usp=drivesdk)
 - [w2_1.zip](https://drive.google.com/file/d/14Y24w4eaY9qnWerv_la1GSBBk2iOkgJv/view?usp=drivesdk)
