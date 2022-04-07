@@ -7,6 +7,7 @@
 ### [大二下機率與統計](https://drive.google.com/drive/folders/1IRFTSS-a9xbLmMQjvREPyLKwHa39nRuA)
 - [2022-04-01 16-29-15.mp4](https://drive.google.com/file/d/1m9LtNKBKhh_jU39eLxLHAEvDOGXnVnsx/view?usp=drivesdk)
 - [4/1(沒聲音).mov](https://drive.google.com/file/d/1QuLrjDLrKY5fa2RVB23G-yNlyyW7V4lI/view?usp=drivesdk)
+- [2022-04-01 14-29-15.mp4](https://drive.google.com/file/d/1kqJQQU-2h30nwQ7LWaWXTBJccT2G8IsX/view?usp=drivesdk)
 ### [大二下電腦網路概論](https://drive.google.com/drive/folders/17f1PUU8rVnj9rwhyRRtsyVXb8lv_CVlS)
 - [CO_w3.zip](https://drive.google.com/file/d/18Vk72dzVV_sPvmFrpe3g36GnbmbNz29E/view?usp=drivesdk)
 - [w2_1.zip](https://drive.google.com/file/d/14Y24w4eaY9qnWerv_la1GSBBk2iOkgJv/view?usp=drivesdk)
