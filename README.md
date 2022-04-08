@@ -5,6 +5,7 @@
 - [目錄連結](https://docs.google.com/document/d/1wGiUWIP7Osg_ltAwvaQmcE5d6UFkK5MESmHZKVHb50g/edit?usp=drivesdk)
 ## [上課影片](https://drive.google.com/drive/folders/17WuOhgMR2RTPYTQAfjjd9AcZSqUSgrW8)
 ### [大二下機率與統計](https://drive.google.com/drive/folders/1IRFTSS-a9xbLmMQjvREPyLKwHa39nRuA)
+- [2022-04-08 15-05-12.mp4](https://drive.google.com/file/d/1kVft6BOwSyCWia5B7nmFmsLlfreNwoTj/view?usp=drivesdk)
 - [2022-04-01 16-29-15.mp4](https://drive.google.com/file/d/1m9LtNKBKhh_jU39eLxLHAEvDOGXnVnsx/view?usp=drivesdk)
 - [4/1(沒聲音).mov](https://drive.google.com/file/d/1QuLrjDLrKY5fa2RVB23G-yNlyyW7V4lI/view?usp=drivesdk)
 - [2022-04-01 14-29-15.mp4](https://drive.google.com/file/d/1kqJQQU-2h30nwQ7LWaWXTBJccT2G8IsX/view?usp=drivesdk)
