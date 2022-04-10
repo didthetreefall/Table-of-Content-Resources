@@ -24,6 +24,7 @@
 - [credit_nicholaslaclair5](https://drive.google.com/file/d/1KCkHL_pQ2vuXNXwafawm8DJ7B-qetGYI/view?usp=drivesdk)
 ### [各科作業](https://drive.google.com/drive/folders/1CqYKhhzK--jreoVZEgdXCJI8Jhv5exij)
 #### [離散](https://drive.google.com/drive/folders/1S39U2PfEgP5RIFseF867YgpcmxMOEadk)
+- [HW2.pdf](https://drive.google.com/file/d/1PrsPrb96LfjQCGzac0n6HnvO9WZFO5H_/view?usp=drivesdk)
 - [HW1.pdf](https://drive.google.com/file/d/1HbyQVKNfmbbSK0WSy--TU-GS4G_yS5Io/view?usp=drivesdk)
 ### [研究所考科](https://drive.google.com/drive/folders/1rK49FYgY4JaVMhOzbBFRbXKZ4PNCHSk4)
 #### [台大學長TDLB(應該是大碩筆記)](https://drive.google.com/drive/folders/1bsqU4ktb5rfU_ocY7xcXmWETaLLhmyGb)
