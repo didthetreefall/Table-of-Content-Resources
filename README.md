@@ -64,6 +64,7 @@
 - [2016 林立宇 演算法.pdf](https://drive.google.com/file/d/1s4Jt_XmpogeHTkkywEPyRT0suvTCbvzs/view?usp=drivesdk)
 ### [上課簡報](https://drive.google.com/drive/folders/1J6np2YY7I82R5zl95XwVfEebGZ17HGGu)
 #### [CO](https://drive.google.com/drive/folders/1-W2nvvluv_MpXcMXWjEo_PD4N0fKrtQd)
+- [LN10_Ch4_Processor-pipe1.pdf](https://drive.google.com/file/d/1zqqUSsC-0gW1_4gpEuod4ZwWGK_Xir0C/view?usp=drivesdk)
 - [LN09_Ch4_Processor_single.pdf](https://drive.google.com/file/d/1aX_hbHtF4-lghlxnQeGbgoxpW-HQdks7/view?usp=drivesdk)
 - [LN08_Ch3_Arithmetic_2.pdf](https://drive.google.com/file/d/1cDzLIr_1ARRll7fXTvTzmeHuU4A0NWcr/view?usp=drivesdk)
 - [LN07_Ch3_Arithmetic_1.pdf](https://drive.google.com/file/d/1JvMw95l8kHUf29vbieZZBHrR5QJP7RHj/view?usp=drivesdk)
