@@ -64,6 +64,7 @@
 - [2016 林立宇 演算法.pdf](https://drive.google.com/file/d/1s4Jt_XmpogeHTkkywEPyRT0suvTCbvzs/view?usp=drivesdk)
 ### [上課簡報](https://drive.google.com/drive/folders/1J6np2YY7I82R5zl95XwVfEebGZ17HGGu)
 #### [CO](https://drive.google.com/drive/folders/1-W2nvvluv_MpXcMXWjEo_PD4N0fKrtQd)
+- [LN06_Instr_Of_Computer_2.pdf](https://drive.google.com/file/d/1hXSuxC94tIPwDVQgFr15ewANF7i_Piq0/view?usp=drivesdk)
 - [Mars_tutorial.pdf](https://drive.google.com/file/d/1dKtW4lQHydudJsKpk15lpZMCOTzaVfb6/view?usp=drivesdk)
 - [LN05_Instr_Of_Computer_1.pdf](https://drive.google.com/file/d/18r2YOiYLo1Yxkty5iLf7BMmUAudbEUQz/view?usp=drivesdk)
 - [LN04_Abstractions_and_Technology.pdf](https://drive.google.com/file/d/1QfOXdhTfVQfAXgzQ63tL_0tTiP2jH5vu/view?usp=drivesdk)
