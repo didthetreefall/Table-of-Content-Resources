@@ -63,6 +63,7 @@
 - [2016 林緯 離散數學.pdf](https://drive.google.com/file/d/1sIhqMQU67hP6YL8xPaWVw9LOnZqfnNsJ/view?usp=drivesdk)
 - [2016 林立宇 演算法.pdf](https://drive.google.com/file/d/1s4Jt_XmpogeHTkkywEPyRT0suvTCbvzs/view?usp=drivesdk)
 ### [上課簡報](https://drive.google.com/drive/folders/1J6np2YY7I82R5zl95XwVfEebGZ17HGGu)
+#### [CO](https://drive.google.com/drive/folders/1-W2nvvluv_MpXcMXWjEo_PD4N0fKrtQd)
 #### [電腦網路概論](https://drive.google.com/drive/folders/1-73QTkDBAuY4ybXWbStKItjQGh5mRSo9)
 - [大二下電腦網路概論上課簡報](https://docs.google.com/document/d/1ZqK1F4BcWaR634p1HTI04d5Mn5k4teP6LaHmmr-i2VE/edit?usp=drivesdk)
 ##### [PPT](https://drive.google.com/drive/folders/1-1T5I8NOcXLqoawgHPLbuyHFgIHBvsKs)
