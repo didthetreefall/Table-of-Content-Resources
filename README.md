@@ -64,6 +64,8 @@
 - [2016 林立宇 演算法.pdf](https://drive.google.com/file/d/1s4Jt_XmpogeHTkkywEPyRT0suvTCbvzs/view?usp=drivesdk)
 ### [上課簡報](https://drive.google.com/drive/folders/1J6np2YY7I82R5zl95XwVfEebGZ17HGGu)
 #### [CO](https://drive.google.com/drive/folders/1-W2nvvluv_MpXcMXWjEo_PD4N0fKrtQd)
+- [LN04_Abstractions_and_Technology.pdf](https://drive.google.com/file/d/1QfOXdhTfVQfAXgzQ63tL_0tTiP2jH5vu/view?usp=drivesdk)
+- [LN03_Control.pdf](https://drive.google.com/file/d/1iw1R3TNeMjg6B7asY1HgVxajbHacteMq/view?usp=drivesdk)
 - [LN02_CombSeq.pdf](https://drive.google.com/file/d/1kTxCWYm6mGoitsvGdOs0t8J5eMdwgCNh/view?usp=drivesdk)
 - [LN01_Verilog_RTL.pdf](https://drive.google.com/file/d/1t1RcwD-QHTnJyrpJ64eVta-fonq093Vc/view?usp=drivesdk)
 - [LN00_Syllabus_Outline.pdf](https://drive.google.com/file/d/17bKltGE3RJSH7eqmPWdQNSsxTl5Y5YkV/view?usp=drivesdk)
