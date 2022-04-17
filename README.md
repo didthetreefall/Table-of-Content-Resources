@@ -64,6 +64,7 @@
 - [2016 林立宇 演算法.pdf](https://drive.google.com/file/d/1s4Jt_XmpogeHTkkywEPyRT0suvTCbvzs/view?usp=drivesdk)
 ### [上課簡報](https://drive.google.com/drive/folders/1J6np2YY7I82R5zl95XwVfEebGZ17HGGu)
 #### [CO](https://drive.google.com/drive/folders/1-W2nvvluv_MpXcMXWjEo_PD4N0fKrtQd)
+- [LN01_Verilog_RTL.pdf](https://drive.google.com/file/d/1t1RcwD-QHTnJyrpJ64eVta-fonq093Vc/view?usp=drivesdk)
 - [LN00_Syllabus_Outline.pdf](https://drive.google.com/file/d/17bKltGE3RJSH7eqmPWdQNSsxTl5Y5YkV/view?usp=drivesdk)
 #### [電腦網路概論](https://drive.google.com/drive/folders/1-73QTkDBAuY4ybXWbStKItjQGh5mRSo9)
 - [大二下電腦網路概論上課簡報](https://docs.google.com/document/d/1ZqK1F4BcWaR634p1HTI04d5Mn5k4teP6LaHmmr-i2VE/edit?usp=drivesdk)
