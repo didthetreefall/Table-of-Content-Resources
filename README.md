@@ -5,6 +5,7 @@
 - [目錄連結](https://docs.google.com/document/d/1wGiUWIP7Osg_ltAwvaQmcE5d6UFkK5MESmHZKVHb50g/edit?usp=drivesdk)
 ## [上課影片](https://drive.google.com/drive/folders/17WuOhgMR2RTPYTQAfjjd9AcZSqUSgrW8)
 ### [IC](https://drive.google.com/drive/folders/1L1ceB_TwG1ALQqng2WJnlHHBgnS7v3el)
+- [2022-04-19 18-50-12.mp4](https://drive.google.com/file/d/1RtXuHU5PsGGZWKN-lnUab5T98YO-3eqk/view?usp=drivesdk)
 ### [大二下機率與統計](https://drive.google.com/drive/folders/1IRFTSS-a9xbLmMQjvREPyLKwHa39nRuA)
 - [2022-04-08 15-05-12.mp4](https://drive.google.com/file/d/1kVft6BOwSyCWia5B7nmFmsLlfreNwoTj/view?usp=drivesdk)
 - [Cisco Webex Meetings 2022-04-08 15-01-36.mp4](https://drive.google.com/file/d/1FgNQNiAFytr6_sL2A8acOzFOCC_e7t5s/view?usp=drivesdk)
