@@ -98,7 +98,7 @@
 ### [機械手臂](https://drive.google.com/drive/folders/1BjLNG4KsdmvAM-1kLLWrBT2jKV3l_HL0)
 - [機械系專題實作](https://docs.google.com/document/d/15PkVL9j-PJteGAlbiKFLzn-Sxh5-9DcLLPIAnkvku20/edit?usp=drivesdk)
 ### [電子書](https://drive.google.com/drive/folders/1LNY-Jrq4JhnltxJVsHb2vRdDfoGhuWvF)
-- [Screenshot_20220424-165018_Instagram.jpg](https://drive.google.com/file/d/1WqgwW1pp8wWyd2gNy-dg6Yf_3Fg2-dQT/view?usp=drivesdk)
+- [聽說統計會聽不懂](https://drive.google.com/file/d/1WqgwW1pp8wWyd2gNy-dg6Yf_3Fg2-dQT/view?usp=drivesdk)
 - [機率與統計參考解答](https://docs.google.com/document/d/15ko5O3crmTQG7AgA3L22r38aUFnXA7HIbtoABZnz79w/edit?usp=drivesdk)
 - [[Head first series] Brett McLaughlin_ Gary Pollice_ David West - Head first object-oriented analysis and design (2007, O'Reilly ) - libgen.lc.pdf](https://drive.google.com/file/d/1O-fhosDbkLakuw08_os6mc8fcspFbfQT/view?usp=drivesdk)
 - [Ronald-E.-Walpole-Raymond-H.-Myers-Sharon-L.-Myers-Keying-E.-Ye-Probability-Statistics-for-Engineers-Scientists-2016-Pearson-libgen.lc.pdf](https://drive.google.com/file/d/1WF4BqgUGSEz4DT9IqGf1jY4zf4Wn70L4/view?usp=drivesdk)
