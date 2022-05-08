@@ -111,6 +111,7 @@
 ### [Software Engineering](https://drive.google.com/drive/folders/1jZUYMr0eLRw-NWBJFByH2V5J58BjkV1z)
 #### [OOP](https://drive.google.com/drive/folders/1i_Fnp3LymZtC1RvgFurab2Kqf-rgoujN)
 ##### [Smalltalk](https://drive.google.com/drive/folders/1vuJg_iVs2nCHHV96VFU7DIPwwA2jjQi4)
+- [Bluebook.pdf](https://drive.google.com/file/d/1Cw6ePzLmQzUhQaWk032Z9wrJ-zn6Jksd/view?usp=drivesdk)
 #### [方法論](https://drive.google.com/drive/folders/1Nq6ZY2kKQ2TuFJ9f8pqeSWWylKv5qZku)
 ##### [No Silver Bullet—Essence and Accidents of Software Engineering](https://drive.google.com/drive/folders/1JkP6BgJ9iIpkefXtMRSRVwKmHEfe5ABa)
 - [No Silver Bullet -- 分類原因與想法](https://docs.google.com/document/d/1Deq4nsH885q9RVpDpdOlPvazqbMdbrPmy_EcJuG8oIw/edit?usp=drivesdk)
