@@ -5,6 +5,7 @@
 - [目錄連結](https://docs.google.com/document/d/1wGiUWIP7Osg_ltAwvaQmcE5d6UFkK5MESmHZKVHb50g/edit?usp=drivesdk)
 ## [上課影片](https://drive.google.com/drive/folders/17WuOhgMR2RTPYTQAfjjd9AcZSqUSgrW8)
 ### [離散](https://drive.google.com/drive/folders/1Xo0vB3kH_goFmMLfCGPw_ISxoZzdK-o2)
+- [2022-05-05 10-02-55.mp4](https://drive.google.com/file/d/1Xkh0Z2s4FQJeNFWdMok0yv22Aed_DRDH/view?usp=drivesdk)
 - [2022-04-28 09-33-09.mp4](https://drive.google.com/file/d/1hS5fQ2Gz1jl4PUh-IhdB7AxVPI5jqiUF/view?usp=drivesdk)
 - [2022-04-14 18-26-59.mp4](https://drive.google.com/file/d/1JgbRAA7tUi6_Cj8h7Z0AaVJixG0yIMUF/view?usp=drivesdk)
 - [2022-04-14 09-26-44.mp4](https://drive.google.com/file/d/1Tnn06FddrKChEA29QCLD5TaclGwJHPtJ/view?usp=drivesdk)
