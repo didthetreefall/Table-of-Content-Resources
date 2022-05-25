@@ -4,6 +4,7 @@
 - [TableOfContentScript](https://script.google.com/d/1cR28iG960O3N63pspy4eJa2aZkTo-xfDf5CYsBALKsF7eGEVYQt9wT-0/edit?usp=drivesdk)
 - [目錄連結](https://docs.google.com/document/d/1wGiUWIP7Osg_ltAwvaQmcE5d6UFkK5MESmHZKVHb50g/edit?usp=drivesdk)
 ## [上課影片](https://drive.google.com/drive/folders/17WuOhgMR2RTPYTQAfjjd9AcZSqUSgrW8)
+### [離散](https://drive.google.com/drive/folders/1Xo0vB3kH_goFmMLfCGPw_ISxoZzdK-o2)
 ### [大二下機率與統計](https://drive.google.com/drive/folders/1IRFTSS-a9xbLmMQjvREPyLKwHa39nRuA)
 - [2022-05-13 13-50-55.mp4](https://drive.google.com/file/d/1WeZraALe0o68bHC-Ga9dgzXdqxDLJ2PT/view?usp=drivesdk)
 - [2022-04-29 13-16-55_Trim.mp4](https://drive.google.com/file/d/1Sf44i4OVD0p4ZxqVSVA7uqwuCRHSPHgx/view?usp=drivesdk)
