@@ -95,6 +95,7 @@
 - [LN01_Verilog_RTL.pdf](https://drive.google.com/file/d/1t1RcwD-QHTnJyrpJ64eVta-fonq093Vc/view?usp=drivesdk)
 - [LN00_Syllabus_Outline.pdf](https://drive.google.com/file/d/17bKltGE3RJSH7eqmPWdQNSsxTl5Y5YkV/view?usp=drivesdk)
 #### [電腦網路概論](https://drive.google.com/drive/folders/1-73QTkDBAuY4ybXWbStKItjQGh5mRSo9)
+- [ComputerNetworks_RWHung.pdf](https://drive.google.com/file/d/14b--LRIESRjAhvK4mYw91KejNfQwADxq/view?usp=drivesdk)
 - [大二下電腦網路概論上課簡報](https://docs.google.com/document/d/1ZqK1F4BcWaR634p1HTI04d5Mn5k4teP6LaHmmr-i2VE/edit?usp=drivesdk)
 ##### [PPT](https://drive.google.com/drive/folders/1-1T5I8NOcXLqoawgHPLbuyHFgIHBvsKs)
 - [Chapter_8_v8.0.pptx](https://docs.google.com/presentation/d/1LsK5xXG6LVrg_o9Xm8KoxAFJUnIDq7Bf/edit?usp=drivesdk&ouid=116233220043250484354&rtpof=true&sd=true)
