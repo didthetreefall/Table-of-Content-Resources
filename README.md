@@ -3,6 +3,7 @@
 # [我的雲端硬碟](https://drive.google.com/drive/folders/0AD8qKSrYx_alUk9PVA)
 - [TableOfContentScript](https://script.google.com/d/1cR28iG960O3N63pspy4eJa2aZkTo-xfDf5CYsBALKsF7eGEVYQt9wT-0/edit?usp=drivesdk)
 - [目錄連結](https://docs.google.com/document/d/1wGiUWIP7Osg_ltAwvaQmcE5d6UFkK5MESmHZKVHb50g/edit?usp=drivesdk)
+## [Design Pattern](https://drive.google.com/drive/folders/1-v4ym4FhsLnA--3jGbaUZ4yOchyGkaH0)
 ## [上課影片](https://drive.google.com/drive/folders/17WuOhgMR2RTPYTQAfjjd9AcZSqUSgrW8)
 ### [離散](https://drive.google.com/drive/folders/1Xo0vB3kH_goFmMLfCGPw_ISxoZzdK-o2)
 - [2022-05-12 13-02-27.mp4](https://drive.google.com/file/d/1cvI42W0FQ-gbN7PHrXpnyC52IR2Zo0ka/view?usp=drivesdk)
