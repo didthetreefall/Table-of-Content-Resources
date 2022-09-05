@@ -83,6 +83,7 @@
 - [2016 林緯 離散數學.pdf](https://drive.google.com/file/d/1sIhqMQU67hP6YL8xPaWVw9LOnZqfnNsJ/view?usp=drivesdk)
 - [2016 林立宇 演算法.pdf](https://drive.google.com/file/d/1s4Jt_XmpogeHTkkywEPyRT0suvTCbvzs/view?usp=drivesdk)
 ### [上課簡報](https://drive.google.com/drive/folders/1J6np2YY7I82R5zl95XwVfEebGZ17HGGu)
+#### [影像概論](https://drive.google.com/drive/folders/1-9eNldBsVQSXBPQ4UY9v9stRoeDPp8ds)
 #### [DM](https://drive.google.com/drive/folders/1RiG60-iaHnYuaCcHQoeJO8f2epQ4CP2k)
 - [04 Properties of the Integers Mathematical Induction.pdf](https://drive.google.com/file/d/1W6oC4aMCOzfPEtz_1kGl-GLxekWQt31X/view?usp=drivesdk)
 #### [CO](https://drive.google.com/drive/folders/1-W2nvvluv_MpXcMXWjEo_PD4N0fKrtQd)
