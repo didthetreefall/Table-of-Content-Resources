@@ -84,6 +84,7 @@
 - [2016 林立宇 演算法.pdf](https://drive.google.com/file/d/1s4Jt_XmpogeHTkkywEPyRT0suvTCbvzs/view?usp=drivesdk)
 ### [上課簡報](https://drive.google.com/drive/folders/1J6np2YY7I82R5zl95XwVfEebGZ17HGGu)
 #### [影像概論](https://drive.google.com/drive/folders/1-9eNldBsVQSXBPQ4UY9v9stRoeDPp8ds)
+- [Ch01-03_Cv_Intro_CameraModel_2d3d_Homo_Ncku_20220905_V6B1_LienJj.pdf](https://drive.google.com/file/d/1ZvRCkpHglU_I4WKuWcXR-YpqrLWjnDJQ/view?usp=drivesdk)
 #### [DM](https://drive.google.com/drive/folders/1RiG60-iaHnYuaCcHQoeJO8f2epQ4CP2k)
 - [04 Properties of the Integers Mathematical Induction.pdf](https://drive.google.com/file/d/1W6oC4aMCOzfPEtz_1kGl-GLxekWQt31X/view?usp=drivesdk)
 #### [CO](https://drive.google.com/drive/folders/1-W2nvvluv_MpXcMXWjEo_PD4N0fKrtQd)
