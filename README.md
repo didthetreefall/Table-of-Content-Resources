@@ -118,6 +118,8 @@
 ### [機械手臂](https://drive.google.com/drive/folders/1BjLNG4KsdmvAM-1kLLWrBT2jKV3l_HL0)
 - [機械系專題實作](https://docs.google.com/document/d/15PkVL9j-PJteGAlbiKFLzn-Sxh5-9DcLLPIAnkvku20/edit?usp=drivesdk)
 ### [電子書](https://drive.google.com/drive/folders/1LNY-Jrq4JhnltxJVsHb2vRdDfoGhuWvF)
+- [影像處理Digital-Image-Processing-3rd-ed.-R.-Gonzalez-R.-Woods-ilovepdf-compressed.pdf](https://drive.google.com/file/d/1FctEqalLfu3GosnY_XRoAyTdzzW-BK1W/view?usp=drivesdk)
+- [OpenCv_Learn_2008_V2_Bradski_20171109_V1B2_LienJj_Label.pdf](https://drive.google.com/file/d/1e5WzKm1ZNbSAEJ97LyF4-OUHO6tJdb2Q/view?usp=drivesdk)
 - [Introduction to Algorithms.pdf](https://drive.google.com/file/d/1lk2apEZI1lDq-6jOkiR-hVFSZf4gTzT5/view?usp=drivesdk)
 - [聽說統計會聽不懂](https://drive.google.com/file/d/1WqgwW1pp8wWyd2gNy-dg6Yf_3Fg2-dQT/view?usp=drivesdk)
 - [未命名文件](https://docs.google.com/document/d/1DdPvLA4g-xYoBAdUKtzOc5pq38fAlw12Baeqi6fwDMA/edit?usp=drivesdk)
