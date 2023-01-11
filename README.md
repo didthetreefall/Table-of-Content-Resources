@@ -1,7 +1,6 @@
 使用左上角的目錄圖案幫助查找
 ![screenshot](https://github.com/didthetreefall/Table-of-Content-Resources/blob/main/%E6%88%AA%E5%9C%96%202022-01-30%20%E4%B8%8B%E5%8D%8810.52.09.png)
 # [我的雲端硬碟](https://drive.google.com/drive/folders/0AD8qKSrYx_alUk9PVA)
-- [第33組.zip](https://drive.google.com/file/d/1Z1rc3sfmz98uYVF87VOPrf5olmTcaHt6/view?usp=drivesdk)
 - [TableOfContentScript](https://script.google.com/d/1cR28iG960O3N63pspy4eJa2aZkTo-xfDf5CYsBALKsF7eGEVYQt9wT-0/edit?usp=drivesdk)
 - [目錄連結](https://docs.google.com/document/d/1wGiUWIP7Osg_ltAwvaQmcE5d6UFkK5MESmHZKVHb50g/edit?usp=drivesdk)
 ## [Design Pattern](https://drive.google.com/drive/folders/1-v4ym4FhsLnA--3jGbaUZ4yOchyGkaH0)
