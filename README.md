@@ -1,6 +1,7 @@
 使用左上角的目錄圖案幫助查找
 ![screenshot](https://github.com/didthetreefall/Table-of-Content-Resources/blob/main/%E6%88%AA%E5%9C%96%202022-01-30%20%E4%B8%8B%E5%8D%8810.52.09.png)
 # [我的雲端硬碟](https://drive.google.com/drive/folders/0AD8qKSrYx_alUk9PVA)
+- [Shapin_Steven_The_Scientific_Revolution 的翻譯版本](https://docs.google.com/document/d/1XQTLviSKRSRP8F2K2hl1eLhJBU8gyYfZZ4Rcbu37tV0/edit?usp=drivesdk)
 - [Shapin_Steven_The_Scientific_Revolution](https://docs.google.com/document/d/1I1B0onuduYp35JE-sEQ8cRcP9VBRb16-O8aHmX9Dh5E/edit?usp=drivesdk)
 - [Shapin_Steven_The_Scientific_Revolution.pdf](https://drive.google.com/file/d/1s1qUdlOP3RqeaQuvlSwtzZzYTW5-HDm5/view?usp=drivesdk)
 - [IMG_3224.MOV](https://drive.google.com/file/d/1FhOjVr2QnZBdlETBlYnNhlLrUcNIY7Mt/view?usp=drivesdk)
