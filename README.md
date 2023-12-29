@@ -8,6 +8,7 @@
 - [第33組.zip](https://drive.google.com/file/d/1Er2ums8U2FOMsCv0sEp8f0psYNYv8uNK/view?usp=drivesdk)
 - [TableOfContentScript](https://script.google.com/d/1cR28iG960O3N63pspy4eJa2aZkTo-xfDf5CYsBALKsF7eGEVYQt9wT-0/edit?usp=drivesdk)
 - [目錄連結](https://docs.google.com/document/d/1wGiUWIP7Osg_ltAwvaQmcE5d6UFkK5MESmHZKVHb50g/edit?usp=drivesdk)
+## [Colab Notebooks](https://drive.google.com/drive/folders/1kgIBCKW68q-uG_PsGE7G9h8lJR8Ydh-C)
 ## [Design Pattern](https://drive.google.com/drive/folders/1-v4ym4FhsLnA--3jGbaUZ4yOchyGkaH0)
 - [head-first-design-patterns-2nd-edition.pdf](https://drive.google.com/file/d/1t1BUWre_DxAnO61YeNsZG83D0yZ_zIpR/view?usp=drivesdk)
 ### [Factory Method & Strategy](https://drive.google.com/drive/folders/1Z6kGSc85NgwBblWJDaPn5wW9B51KQr4C)
