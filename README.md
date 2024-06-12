@@ -10,7 +10,7 @@
 - [TableOfContentScript](https://script.google.com/d/1cR28iG960O3N63pspy4eJa2aZkTo-xfDf5CYsBALKsF7eGEVYQt9wT-0/edit?usp=drivesdk)
 - [目錄連結](https://docs.google.com/document/d/1wGiUWIP7Osg_ltAwvaQmcE5d6UFkK5MESmHZKVHb50g/edit?usp=drivesdk)
 ## [Colab Notebooks](https://drive.google.com/drive/folders/1kgIBCKW68q-uG_PsGE7G9h8lJR8Ydh-C)
-- [「judgement_summary_t5.ipynb」的副本](https://colab.research.google.com/drive/1k7LWcbFiGQjBZy0f3_DTsFcYs9d9veQ9)
+- [judgement_summary_gpt](https://colab.research.google.com/drive/1k7LWcbFiGQjBZy0f3_DTsFcYs9d9veQ9)
 - [Untitled0.ipynb](https://colab.research.google.com/drive/1CV7f0ZsbzOzxIy93ykTQVS3Ka2uIXVd3)
 ## [Design Pattern](https://drive.google.com/drive/folders/1-v4ym4FhsLnA--3jGbaUZ4yOchyGkaH0)
 - [head-first-design-patterns-2nd-edition.pdf](https://drive.google.com/file/d/1t1BUWre_DxAnO61YeNsZG83D0yZ_zIpR/view?usp=drivesdk)
